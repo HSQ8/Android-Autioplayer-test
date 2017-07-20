@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
                 player.pause();
             }
         });
+        //this is some
+        int x = 5 + 6;
     }
 
 
